@@ -91,18 +91,24 @@ h3{
 }
 
 .table{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+
+.content-info{
     width: 100%;
 }
-
-.table td{
-    padding-bottom: 15px;
+.content-info p{
+    padding: 10px;
+    margin: 2px;
 }
 
-.table td:hover {
+.content-info p:hover{
     background: #77323d;
-} 
+}
 
-.table th{
+.name-general{
     background: #77323d;
 }
 
