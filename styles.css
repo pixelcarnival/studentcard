@@ -83,12 +83,14 @@ p{
 }
 
 .li{
-    text-decoration: line-through;
+    text-decoration: line-through;   
 }
 
 h3{
     text-align: center;
 }
+
+/* Таблица */
 
 .table{
     display: flex;
@@ -114,12 +116,10 @@ h3{
 
 .link{
     display: flex;
-    margin-left: 20px;
-    position: sticky;
 }
 
 .link p{
-    padding: 20px 50px;
+    padding: 20px 70px;
     width: 100%;
 }
 
