@@ -1,3 +1,3 @@
-# Карточка студента.
+# Student questionnaire.
 
-[Вторая работа HTML&CSS](https://pixelcarnival.github.io/studentcard/)
+[Second job HTML&CSS](https://pixelcarnival.github.io/studentcard/)
